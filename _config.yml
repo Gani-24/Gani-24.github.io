@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
- - social_media:
+  social_media:
   # behance: your_username
   # dribbble: your_username
   facebook: ganesh.karkhani
@@ -67,8 +67,3 @@ topics:
   - name: C++ Language 
     web_url: https://github.com/search?q=C%2B%2B&type=Repositories
     image_url: https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png
-    
-    
-    
-    
-  
