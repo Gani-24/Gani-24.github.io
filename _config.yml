@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
-  social_media:
+ - social_media:
   # behance: your_username
   # dribbble: your_username
   facebook: ganesh.karkhani
@@ -52,10 +52,23 @@ topics:
     web_url: https://github.com/search?q=python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
-  - name: Youtube
-    web_url: https://www.youtube.com/channel/UCxZhpXve-BmOuzvXw4_qEew
-    image_url: https://w7.pngwing.com/pngs/936/468/png-transparent-youtube-logo-youtube-logo-computer-icons-subscribe-angle-rectangle-airplane.png
+  - name: Java Language
+    web_url: https://github.com/search?q=java
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
 
   - name: Html
     web_url: https://github.com/search?q=HTML&type=Repositories
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png
+    
+  - name: Android 
+    web_url: https://github.com/search?q=Android+Studio&type=Repositories
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png
+    
+  - name: C++ Language 
+    web_url: https://github.com/search?q=C%2B%2B&type=Repositories
+    image_url: https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png
+    
+    
+    
+    
+  
